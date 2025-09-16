@@ -1,3 +1,9 @@
+/*
+Asignacion 3: Tres Numeros Aleatorios
+Nombre: Derek Mead Rivera
+Num. Est: 801-23-5307
+Colaboraciones: n/a
+*/
 // este programa genera tres numeros aleatorios
 // luego los numera en orden descendiente
 #include <iostream>
